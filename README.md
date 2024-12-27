@@ -1,0 +1,2 @@
+$env:API_HASH="0eb1ca884c2ff0c2b35509fe42451668"
+$env:API_ID="23862954"
